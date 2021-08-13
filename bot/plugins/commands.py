@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'J.J.27', url="https://t.me/lyf_of_chaos""
+                                    'J.J.27', url="https://t.me/lyf_of_chaos"
                                 )
                         ]
                     ]
